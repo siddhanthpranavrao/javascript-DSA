@@ -1,1 +1,1 @@
-# javascript-DSA
+# JavaScript Data Structures and Algorithms Problems
